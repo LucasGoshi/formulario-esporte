@@ -18,12 +18,11 @@ Este projeto é um formulário de esporte desenvolvido com Angular. Ele permite 
 ## Instalação
 
 Para instalar e executar o projeto localmente, siga os passos abaixo:
- ```sh
 
-Execute o comando: npm install -g @angular/cli
+Execute o comando: ```sh npm install -g @angular/cli ```
 
-Execute o comando: npm install
+Execute o comando: ```sh npm install ```
 
-Execute o servidor de desenvolvimento: ng serve
+Execute o servidor de desenvolvimento: ```sh ng serve ```
 
-Abra a URL do navegador: http://localhost:4200
+Abra a URL do navegador: ```sh http://localhost:4200 ```
