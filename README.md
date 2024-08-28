@@ -21,7 +21,7 @@ Este projeto é um formulário de esporte desenvolvido com Angular. Ele permite 
 
 Para instalar e executar o projeto localmente, siga os passos abaixo:
 
-Execute o comando: ```sh npm install -g @angular/cli ```
+Execute o comando: ```sh npm install -g @ionic/cli ```
 
 Execute o comando: ```sh npm install ```
 
